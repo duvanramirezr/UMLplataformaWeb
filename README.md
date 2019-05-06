@@ -2,10 +2,10 @@
 Ejercicios de modelado UML para una plataforma web
 
 ## INTEGRANTES
--Andres Castro
--Duvan Ramirez
--Camilo Ramirez
--Jorge Cardenas
+- Andres Castro
+- Duvan Ramirez
+- Camilo Ramirez
+- Jorge Cardenas
 
 ##Diagrama De Clases
 ![Diagrama de clases plataforma web ](https://i.ibb.co/kKkMKXn/Diagrama-De-Clases-Diagrama-De-Clases-0.jpg)
