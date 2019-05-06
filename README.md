@@ -17,4 +17,4 @@ Ejercicios de modelado UML para una plataforma web
 ![Diagrama de secuencia plataforma web ](https://i.ibb.co/LCC9WFQ/Collaboration1-Interaction1-Interaccion-Basica-1.jpg)
 
 ### Prueba del vehiculo
-![Diagrama de secuencia plataforma web  ]https://i.ibb.co/RH1x6bC/Collaboration2-Interaction1-Prueba-Vehiculo-2.jpg)
+![Diagrama de secuencia plataforma web  ](https://i.ibb.co/RH1x6bC/Collaboration2-Interaction1-Prueba-Vehiculo-2.jpg)
