@@ -11,7 +11,7 @@ Ejercicios de modelado UML para una plataforma web
 ![Diagrama de secuencia plataforma web  ](https://i.ibb.co/2yyB6nv/Diagrama-Casos-de-uso-Diagrama-Casos-De-Uso-3.jpg)
 
 ## Diagrama De Clases
-![Diagrama de clases plataforma web ](https://i.ibb.co/kKkMKXn/Diagrama-De-Clases-Diagrama-De-Clases-0.jpg)
+![Diagrama de clases plataforma web ](https://i.ibb.co/BTxsbmn/Diagrama-De-Clases-Diagrama-De-Clases-0.jpg)
 
 ## Diagrama de actividades
 ![Diagrama de secuencia plataforma web  ](https://i.ibb.co/HKD0jpY/Daigrama-de-actividades-Activity-Diagram1-4.jpg)
